@@ -9,3 +9,4 @@ Task list
 8. [x] Change the color of paddles. 
 9. [x] Change ball color.
 10. [x] Change color of score displays.
+11. [x] Changed positions of paddles.
