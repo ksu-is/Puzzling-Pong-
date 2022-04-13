@@ -21,7 +21,7 @@ carryOn = True
 clock = pygame.time.Clock()
 
 #paddles
-paddleA = Paddle(WHITE, 10, 110)
+paddleA = Paddle(Maroon, 10, 110)
 paddleA.rect.x = 20
 paddleA.rect.y = 200
 paddleB = Paddle(WHITE, 10, 110)
