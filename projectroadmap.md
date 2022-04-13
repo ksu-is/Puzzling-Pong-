@@ -7,3 +7,5 @@ Task list
 6. [x] Change the background color.
 7. [x] Change the size of paddles. 
 8. [x] Change the color of paddles. 
+9. [x] Change ball color
+
