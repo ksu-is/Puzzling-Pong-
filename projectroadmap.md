@@ -10,4 +10,4 @@ Task list
 9. [x] Change ball color.
 10. [x] Change color of score displays.
 11. [x] Change positions of paddles.
-12. [x] Add more color options
+12. [x] Add more color options.
