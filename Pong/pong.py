@@ -24,7 +24,7 @@ clock = pygame.time.Clock()
 paddleA = Paddle(Maroon, 10, 110)
 paddleA.rect.x = 20
 paddleA.rect.y = 200
-paddleB = Paddle(WHITE, 10, 110)
+paddleB = Paddle(Blue, 10, 110)
 paddleB.rect.x = 670
 paddleB.rect.y = 200
 
