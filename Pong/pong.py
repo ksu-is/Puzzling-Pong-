@@ -29,7 +29,7 @@ paddleB.rect.x = 670
 paddleB.rect.y = 200
 
 #ball
-ball = Ball(WHITE, 10, 10)
+ball = Ball(WHITE, 15, 15)
 ball.rect.x = 345
 ball.rect.y = 195
 
