@@ -84,9 +84,9 @@ while carryOn:
 
 	#score display
 	font = pygame.font.Font(None, 74)
-	text = font.render(str(scoreA), 1, WHITE)
+	text = font.render(str(scoreA), 1, Maroon)
 	screen.blit(text, (250, 10))
-	text = font.render(str(scoreB), 1, WHITE)
+	text = font.render(str(scoreB), 1, Blue)
 	screen.blit(text, (420, 10))
 
 	#screen update
