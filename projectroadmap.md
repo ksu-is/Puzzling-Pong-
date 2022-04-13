@@ -5,4 +5,5 @@ Task list
 4. [x] Review source material at https://www.askpython.com/python/examples/easy-games-in-python to make any need changes to the example code. 
 5. [x] Change the ball size. 
 6. [x] Change the background color.
-7. [x] Change size of paddles. 
+7. [x] Change the size of paddles. 
+8. [x] Change the color of the paddles. 
