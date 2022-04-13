@@ -8,6 +8,10 @@ pygame.init()
 #colors
 BLACK = (0,0,0)
 WHITE = (255,255,255)
+Peach = (255,229,180)
+aroon = (128,0,0)
+Gold = (255,215,0)
+Blue = (0,0,128)
 
 #window & misc
 size = (700, 500)
